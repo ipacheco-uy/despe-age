@@ -47,7 +47,7 @@ body {
 }
 
 .website, .logo {
-    max-width: 300px;
+    max-width: 100%;
 }
 
 .divider {
